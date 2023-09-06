@@ -5,20 +5,28 @@ Welcome to the CODSOFT repository! This repository showcases the projects I comp
 
 -- Project Descriptions
 
--- Project 1: Quiz Game
--- A Python-based quiz game that challenges users with multiple-choice and fill-in-the-blank questions.
--- Features score tracking, instant feedback on answers, and an engaging user interface.
--- Developed using Python with a focus on educational and enjoyable quiz experiences.
+1. Quiz Game:
 
--- Project 2: Password Generator
--- A Python program that generates strong and random passwords based on user-defined length requirements.
--- Offers a variety of characters for enhanced security.
--- Designed for creating secure passwords with ease.
+- An interactive Python-based quiz game.
+- Challenges users with multiple-choice and fill-in-the-blank questions.
+- Tracks scores and provides instant feedback on answers.
+- Offers a user-friendly interface with randomized question order.
+- Enhances Python programming skills and user experience.
 
--- Project 3: Weather Forecast Application
--- An application that retrieves current weather data from an API based on user-provided location information.
--- Displays temperature, humidity, and weather description in a user-friendly format.
--- Developed to provide users with up-to-date weather information.
+2. Password Generator:
+
+- A Python program for generating secure and random passwords.
+- Customizable password length for strong security.
+- Includes a variety of characters for password diversity.
+- Useful for enhancing online security and protecting accounts.
+
+3. Weather Forecast Application:
+
+- Retrieves real-time weather data from an API.
+- Allows users to input a city or zip code for weather information.
+- Displays current temperature, humidity, and weather description.
+- Enhances user experience with accurate and up-to-date weather details.
+- Useful for planning outdoor activities and staying informed about weather conditions.
 
 -- Explore each project's directory for detailed information and usage instructions.
 
